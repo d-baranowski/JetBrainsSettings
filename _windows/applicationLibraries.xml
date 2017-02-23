@@ -132,6 +132,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="image" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_image.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_image.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="image_manager" type="javaScript">
       <properties>
         <sourceFilesUrls>
