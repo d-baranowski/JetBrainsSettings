@@ -1,230 +1,129 @@
 <application>
   <component name="libraryTable">
-    <library name="align" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_align.min.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_align.min.js" />
-      </CLASSES>
+    <library name="align">
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="char_counter" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_char_counter.min.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_char_counter.min.js" />
-      </CLASSES>
+    <library name="char_counter">
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="code_beautifier" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_code_beautifier.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="code_beautifier">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_code_beautifier.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="code_view" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_code_view.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="code_view">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_code_view.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="colors" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_colors.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="colors">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_colors.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="draggable" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_draggable.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="draggable">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_draggable.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="emoticons" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_emoticons.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="emoticons">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_emoticons.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="file" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_file.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="file">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_file.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="font_family" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_font_family.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="font_family">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_font_family.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="font_size" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_font_size.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="font_size">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_font_size.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="froala_editor" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_froala_editor.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="froala_editor">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_froala_editor.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="fullscreen" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_fullscreen.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="fullscreen">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_fullscreen.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="image" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_image.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="image">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_image.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="image_manager" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_image_manager.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="image_manager">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_image_manager.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="inline_style" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_inline_style.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="inline_style">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_inline_style.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="paragraph_format" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_paragraph_format.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="paragraph_format">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_paragraph_format.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="paragraph_style" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_paragraph_style.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="paragraph_style">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_paragraph_style.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="special_characters" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_special_characters.min.js" />
-        </sourceFilesUrls>
-      </properties>
+    <library name="special_characters">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_special_characters.min.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="table" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_table.min.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_froala-editor_2.4.2_js_plugins_table.min.js" />
-      </CLASSES>
+    <library name="table">
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
