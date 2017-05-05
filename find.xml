@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[Dissertation-_main] - ...\src\main\java\uk\ac\ncl\daniel\baranowski'" />
-    <option name="defaultScopeName" value="Directory '[Dissertation-_main] - ...\src\main\java\uk\ac\ncl\daniel\baranowski'" />
+    <option name="customScope" value="Directory '[Dissertation-_main] - ...\src\main\java'" />
+    <option name="defaultScopeName" value="Directory '[Dissertation-_main] - ...\src\main\java'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[Dissertation-_main] - ...\src\main\java\uk\ac\ncl\daniel\baranowski'" />
+    <option name="SEARCH_SCOPE" value="Directory '[Dissertation-_main] - ...\src\main\java'" />
   </component>
 </application>
