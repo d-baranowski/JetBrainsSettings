@@ -18,8 +18,20 @@
           <option name="url" value="https://github.com/daniel4567/Dissertation-.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Alkusoft/Pyhton-Snake-Game.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/daniel4567/Pyhton-Snake-Game.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/d-baranowski/Pyhton-Snake-Game.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="I:\IdeaProjects" />
+    <option name="cloneParentDir" value="I:\PhpStormWorkspace" />
   </component>
 </application>
