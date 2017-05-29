@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="customScope" value="Directory '[Dissertation-_main] - ...\src\main\java'" />
+    <option name="defaultScopeName" value="Directory '[Dissertation-_main] - ...\src\main\java'" />
+    <option name="SEARCH_SCOPE" value="Directory '[Dissertation-_main] - ...\src\main\java'" />
   </component>
 </application>
