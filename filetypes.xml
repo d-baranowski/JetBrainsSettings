@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping ext="wma" type="Native" />
       <mapping ext="wav" type="Native" />
+      <mapping pattern="progressBar.html" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="DBDockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="progressBar.html" type="PLAIN_TEXT" />
+      <mapping ext="twig" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
