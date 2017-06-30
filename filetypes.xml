@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wma" type="Native" />
       <mapping ext="wav" type="Native" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="progressBar.html" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="DBDockerfile" type="PLAIN_TEXT" />
