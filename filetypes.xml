@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="DbDockerfile" type="Docker file" />
+      <mapping pattern="DbDocker" type="Dockerfile" />
       <mapping ext="wma" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping pattern="progressBar.html" type="PLAIN_TEXT" />
