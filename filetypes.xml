@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="canGetExpectedChannelFixture" type="PLAIN_TEXT" />
       <mapping pattern="__TEMPLATE_CONTAINER__" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
