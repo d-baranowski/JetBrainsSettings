@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="canGetExpectedChannelFixture" type="PLAIN_TEXT" />
       <mapping pattern="__TEMPLATE_CONTAINER__" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

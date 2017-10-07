@@ -30,6 +30,8 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="DSM.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -52,9 +54,13 @@
     <keyboard-shortcut first-keystroke="meta z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="EditorDuplicateLines" />
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
@@ -70,6 +76,7 @@
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift meta left" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
@@ -84,6 +91,12 @@
   </action>
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />

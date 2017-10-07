@@ -1,5 +1,5 @@
 <application>
   <component name="GradleSystemSettings">
-    <option name="serviceDirectoryPath" value="I:/.gradle" />
+    <option name="serviceDirectoryPath" value="$APPLICATION_HOME_DIR$/bin/I:/.gradle/daemon/4.1" />
   </component>
 </application>
