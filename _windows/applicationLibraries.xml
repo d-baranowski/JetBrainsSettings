@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/draft-js" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="align">
       <CLASSES />
       <JAVADOC />
