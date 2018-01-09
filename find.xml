@@ -18,6 +18,7 @@
       <mask>*.spec.</mask>
       <mask>*.spec.js</mask>
       <mask>*.spec.ts</mask>
+      <mask>datepicker.component.js</mask>
     </recentFileMasks>
   </component>
 </application>
