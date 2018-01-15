@@ -1,6 +1,12 @@
 <code_scheme name="Default (1)">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+  <TypeScriptCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
