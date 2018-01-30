@@ -17,13 +17,23 @@
       <mask>*.mxml</mask>
       <mask>*.spec.js</mask>
       <mask>datepicker.component.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.spe</mask>
       <mask>*.spec</mask>
       <mask>*.spec.</mask>
       <mask>*.spec.t</mask>
       <mask>*.spec.ts</mask>
+      <mask>**</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jso</mask>
+      <mask>*.json</mask>
+      <mask>**.json</mask>
+      <mask>****.json</mask>
+      <mask>***/*.json</mask>
+      <mask>**/*.json</mask>
+      <mask>***.json</mask>
+      <mask>**\*.json</mask>
     </recentFileMasks>
   </component>
 </application>
