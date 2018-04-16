@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="TicketingSocketEventHandler" type="JavaScript" />
+      <mapping pattern="SelectFaultType" type="PLAIN_TEXT" />
       <mapping pattern="SmartTicketingPlugin.j" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
     </extensionMap>
