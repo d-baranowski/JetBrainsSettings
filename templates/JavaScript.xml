@@ -4,4 +4,15 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="pcomp" value="const $NAME$ = (props) =&gt; (&lt;View&gt;&lt;/View&gt;)&#10;$END$&#10;&#10;export default $NAME$;" description="creates a pure component template" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="style" value="const styles = StyleSheet.create({&#10;    $END$&#10;});" description="Creates extended stylesheet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
