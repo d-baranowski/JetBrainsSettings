@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="__TEMPLATE_CONTAINER__" type="PLAIN_TEXT" />
       <mapping pattern="CucumberRunner.java" type="PLAIN_TEXT" />
+      <mapping pattern="__TEMPLATE_CONTAINER__" type="PLAIN_TEXT" />
+      <mapping pattern="TextCard" type="PLAIN_TEXT" />
       <mapping pattern="canGetExpectedChannelFixture" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
     </extensionMap>
