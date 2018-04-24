@@ -4,7 +4,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="pcomp" value="const $NAME$ = (props) =&gt; (&lt;View&gt;&lt;/View&gt;)&#10;$END$&#10;&#10;export default $NAME$;" description="creates a pure component template" toReformat="false" toShortenFQNames="true">
+  <template name="pcomp" value="import React from 'react'&#10;import {View} from 'react-native';&#10;&#10;const $NAME$ = (props) =&gt; (&lt;View&gt;&lt;/View&gt;)&#10;$END$&#10;&#10;export default $NAME$;" description="creates a pure component template" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
