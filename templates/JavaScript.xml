@@ -10,7 +10,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="style" value="import StyleSheet from 'react-native-extended-stylesheet';&#10;&#10;const styles = StyleSheet.create({&#10;    $END$&#10;});" description="Creates extended stylesheet" toReformat="false" toShortenFQNames="true">
+  <template name="exstyl" value="import StyleSheet from 'react-native-extended-stylesheet';&#10;&#10;const styles = StyleSheet.create({&#10;    $END$&#10;});" description="Creates extended stylesheet" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
