@@ -1,0 +1,18 @@
+<templateSet group="JavaScript">
+  <template name="react" value="import React from 'react'" description="imports react" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="pcomp" value="import React from 'react'&#10;import {View} from 'react-native';&#10;&#10;const $NAME$ = (props) =&gt; (&lt;View&gt;&lt;/View&gt;)&#10;$END$&#10;&#10;export default $NAME$;" description="creates a pure component template" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="exstyl" value="import StyleSheet from 'react-native-extended-stylesheet';&#10;&#10;const styles = StyleSheet.create({&#10;    $END$&#10;});" description="Creates extended stylesheet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
