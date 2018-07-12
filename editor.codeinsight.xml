@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="net.devtales.blog.api.model.User" />
+  </component>
+</application>
