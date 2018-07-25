@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Initiative" type="JavaScript" />
       <mapping pattern="TicketingSocketEventHandler" type="JavaScript" />
       <mapping pattern="TicketDetailsComponent" type="PLAIN_TEXT" />
       <mapping pattern="SelectFaultType" type="PLAIN_TEXT" />
