@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Initiative" type="JavaScript" />
+      <mapping pattern="ClassAndLevel" type="JavaScript" />
       <mapping pattern="TicketingSocketEventHandler" type="JavaScript" />
+      <mapping pattern="Alignment" type="JavaScript" />
       <mapping pattern="TicketDetailsComponent" type="PLAIN_TEXT" />
       <mapping pattern="SelectFaultType" type="PLAIN_TEXT" />
       <mapping pattern="SmartTicketingPlugin.j" type="PLAIN_TEXT" />
