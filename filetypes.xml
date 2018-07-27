@@ -10,6 +10,7 @@
       <mapping pattern="SelectFaultType" type="PLAIN_TEXT" />
       <mapping pattern="SmartTicketingPlugin.j" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
