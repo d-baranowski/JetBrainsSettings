@@ -8,6 +8,7 @@
       <mapping pattern="Alignment" type="JavaScript" />
       <mapping pattern="TicketDetailsComponent" type="PLAIN_TEXT" />
       <mapping pattern="CharacterNameDrawer" type="PLAIN_TEXT" />
+      <mapping pattern="FormTextField" type="PLAIN_TEXT" />
       <mapping pattern="SmartTicketingPlugin.j" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
